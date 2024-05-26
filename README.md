@@ -6,12 +6,17 @@ Welcome to my GitHub profile! I'm Adrian Andrada Lockmann, a self-taught develop
 Since 2020, I've been diving into the world of programming, teaching myself everything from JavaScript to Python, and mastering frameworks like Angular and React. I'm committed to continuous learning, constantly updating my knowledge through courses, forums, and tech blogs.
 
 ### 🌟 Skills and Technologies
-- **HTML & CSS/TAILWIND**
-- **BOOTSTRAP**
-- **JavaScript**
-- **Angular & React**
-- **Python & Django**
-- **SQL & NoSQL**
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) **HTML**
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) **CSS/TAILWIND**
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) **BOOTSTRAP**
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript**
+- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) **Angular**
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) **React**
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python**
+- ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) **Django**
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) **SQL**
+- ![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=flat-square&logo=mongodb&logoColor=white) **NoSQL**
+
 
 ### 💡 Highlights
 - **Self-Taught Development**: Dedicated to self-learning, I have worked on numerous projects, including a significant migration of a database from PHP to Python for Web Shop Manager.
