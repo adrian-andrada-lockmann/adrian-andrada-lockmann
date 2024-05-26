@@ -31,7 +31,7 @@ Since 2020, I've been diving into the world of programming, teaching myself ever
 
 ## 📫 Let's Connect!
 - 💬 Feel free to ask me about web development, modern frameworks, or any of the technologies I work with.
-- 📧 Reach me at [your-email@example.com]
+- 📧 Reach me at [adrooned@gmail.com]
 
 ### 🌱 Facts
 - 🌟 Enthusiastic learner and always ready for new challenges.
